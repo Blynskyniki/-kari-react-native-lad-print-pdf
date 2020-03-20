@@ -1,6 +1,6 @@
 {
-  "name": "react-native-lad-print-pdf",
-  "version": "1.2.0",
+  "name": "@kari/react-native-lad-print-pdf",
+  "version": "3.0.0",
   "description": "Print pdf adapter from RN",
   "keywords": [
     "react-native",
